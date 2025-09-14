@@ -4,3 +4,5 @@ Workspaces management to Floorp's Panel Sidebar to Floorp 12, just like in Floor
 
 While Natsumi is licensed under GPLv3, this part of Natsumi has been licensed under MIT for easier integration to
 existing projects.
+
+[fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) is required to use this.
